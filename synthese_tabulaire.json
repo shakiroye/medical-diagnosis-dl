@@ -1,0 +1,53 @@
+{
+  "dataset": "Cardiovascular Disease (Kaggle — sulianova)",
+  "n_patients": 68559,
+  "n_features": 14,
+  "features": [
+    "age",
+    "gender",
+    "height",
+    "weight",
+    "ap_hi",
+    "ap_lo",
+    "cholesterol",
+    "gluc",
+    "smoke",
+    "alco",
+    "active",
+    "age_years",
+    "bmi",
+    "pulse_pressure"
+  ],
+  "meilleur_modele": "MLP (fait maison)",
+  "meilleur_auc": 0.8015,
+  "resultats": {
+    "MLP (fait maison)": {
+      "Accuracy": 0.7341,
+      "Precision": 0.7587,
+      "Recall": 0.6782,
+      "F1-Score": 0.7162,
+      "AUC-ROC": 0.8015
+    },
+    "Logistic Regression": {
+      "Accuracy": 0.7293,
+      "Precision": 0.7576,
+      "Recall": 0.6658,
+      "F1-Score": 0.7088,
+      "AUC-ROC": 0.794
+    },
+    "Random Forest": {
+      "Accuracy": 0.7352,
+      "Precision": 0.7587,
+      "Recall": 0.6815,
+      "F1-Score": 0.718,
+      "AUC-ROC": 0.801
+    },
+    "XGBoost": {
+      "Accuracy": 0.7326,
+      "Precision": 0.7528,
+      "Recall": 0.6843,
+      "F1-Score": 0.7169,
+      "AUC-ROC": 0.801
+    }
+  }
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+backend/.venv/
+*.ipynb_checkpoints/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/core/__pycache__/
+backend/app/schemas/__pycache__/
+backend/app/services/__pycache__/
+backend/tests/__pycache__/
+backend/scripts/
+backend/outputs/
+.env

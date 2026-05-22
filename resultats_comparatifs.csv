@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1-Score,AUC-ROC,Rang AUC
+MLP (fait maison),0.7341,0.7587,0.6782,0.7162,0.8015,1
+Logistic Regression,0.7293,0.7576,0.6658,0.7088,0.794,4
+Random Forest,0.7352,0.7587,0.6815,0.718,0.801,2
+XGBoost,0.7326,0.7528,0.6843,0.7169,0.801,2
