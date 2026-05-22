@@ -1,2 +1,4 @@
 notebooks/Projet_Tabulaire_Cardiovasculaire.ipynb
 notebooks/Detection_Pneumonie.ipynb
+notebooks/Detection_Textuelle.ipynb
+notebooks/text_audio.ipynb
