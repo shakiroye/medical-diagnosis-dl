@@ -1,0 +1,9 @@
+report_text,label
+"Patient présente une toux sèche, une fièvre modérée et une gêne respiratoire",1
+"Radiographie sans anomalie, pas de signe d'infection pulmonaire",0
+"Douleur thoracique, essoufflement à l'effort et saturation légèrement basse",1
+"Examen clinique normal, patient asymptomatique et stable",0
+"Fièvre élevée, toux productive et crépitants à l'auscultation",1
+"Absence de fièvre, pas de toux, auscultation normale",0
+"Saturation à 91 %, dyspnée et opacité lobaire suspectée",1
+"Bilan rassurant, pas d'inflammation et constantes normales",0
